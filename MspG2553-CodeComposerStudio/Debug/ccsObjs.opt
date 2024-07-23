@@ -1,0 +1,6 @@
+"./I2C.obj"
+"./MPU6050.obj"
+"./UART.obj"
+"./main.obj"
+"../lnk_msp430g2553.cmd"
+-llibc.a

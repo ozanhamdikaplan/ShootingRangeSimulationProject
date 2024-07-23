@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZYSSzbrr7wtk1spqDP+BqiQaBTC1tBLR6lL4cPOjbDQ6qDWcINKJy2mgxsLi2dMJULTnOedHVBIZbt+nO8Wtgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kapla\\source\\repos\\TigerShootingRange\\TigerShootingRange\\TigerShootingRange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kapla\\.nuget\\packages\\inthehand.net.bluetooth\\4.1.43\\inthehand.net.bluetooth.4.1.43.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\inthehand.net.irda\\4.0.3\\inthehand.net.irda.4.0.3.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
